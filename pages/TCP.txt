@@ -1,0 +1,5 @@
+TCP (Transmission Control Protocol)
+
+OSI Model layer 4 (Transport) protocol.
+
+TODO: A lot.
